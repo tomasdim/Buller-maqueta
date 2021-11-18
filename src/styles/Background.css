@@ -1,0 +1,42 @@
+.background-image {
+  display: flex;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 0;
+  background-position-x: 30%;
+}
+
+@media (min-width: 1920px) {
+  .background-image {
+    background-position-x: 90%;
+    background-size: cover;
+    background-image: url("../assets/Background-xl.png") !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .background-image {
+    background-position-x: 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  .background-image {
+    background-position: 100 200;
+    background-image: url("../assets/Background-mobile.png") !important;
+    background-position-x: 20%;
+  }
+}
+
+.tabs-menu-container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .tabs-menu-container {
+    display: none;
+  }
+}

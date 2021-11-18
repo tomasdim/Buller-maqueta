@@ -1,0 +1,38 @@
+.flex-grow {
+  flex-grow: 1;
+  display: flex;
+}
+
+@media (min-width: 1920px) {
+  .buller-logo {
+    width: 220px;
+  }
+}
+
+@media (max-width: 600px) {
+  .buller-logo {
+    width: 150px;
+  }
+}
+
+.right-navbar {
+  display: flex;
+  justify-content: space-around;
+  width: 275px;
+}
+
+@media (max-width: 420px) {
+  .right-navbar {
+    width: 200px;
+  }
+}
+
+.MuiToolbar-gutters {
+  padding-right: 0;
+}
+
+.navbar-bottom-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
