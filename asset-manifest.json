@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Buller-maqueta/static/css/main.8ea08200.chunk.css",
-    "main.js": "/Buller-maqueta/static/js/main.8e1fbbe1.chunk.js",
-    "main.js.map": "/Buller-maqueta/static/js/main.8e1fbbe1.chunk.js.map",
+    "main.js": "/Buller-maqueta/static/js/main.0bb2d0fa.chunk.js",
+    "main.js.map": "/Buller-maqueta/static/js/main.0bb2d0fa.chunk.js.map",
     "runtime-main.js": "/Buller-maqueta/static/js/runtime-main.00259edf.js",
     "runtime-main.js.map": "/Buller-maqueta/static/js/runtime-main.00259edf.js.map",
     "static/js/2.c6308a9e.chunk.js": "/Buller-maqueta/static/js/2.c6308a9e.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.00259edf.js",
     "static/js/2.c6308a9e.chunk.js",
     "static/css/main.8ea08200.chunk.css",
-    "static/js/main.8e1fbbe1.chunk.js"
+    "static/js/main.0bb2d0fa.chunk.js"
   ]
 }
