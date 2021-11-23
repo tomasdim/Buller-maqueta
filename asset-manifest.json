@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Buller-maqueta/static/css/main.8ea08200.chunk.css",
+    "main.js": "/Buller-maqueta/static/js/main.8e1fbbe1.chunk.js",
+    "main.js.map": "/Buller-maqueta/static/js/main.8e1fbbe1.chunk.js.map",
+    "runtime-main.js": "/Buller-maqueta/static/js/runtime-main.00259edf.js",
+    "runtime-main.js.map": "/Buller-maqueta/static/js/runtime-main.00259edf.js.map",
+    "static/js/2.c6308a9e.chunk.js": "/Buller-maqueta/static/js/2.c6308a9e.chunk.js",
+    "static/js/2.c6308a9e.chunk.js.map": "/Buller-maqueta/static/js/2.c6308a9e.chunk.js.map",
+    "index.html": "/Buller-maqueta/index.html",
+    "static/css/main.8ea08200.chunk.css.map": "/Buller-maqueta/static/css/main.8ea08200.chunk.css.map",
+    "static/js/2.c6308a9e.chunk.js.LICENSE.txt": "/Buller-maqueta/static/js/2.c6308a9e.chunk.js.LICENSE.txt",
+    "static/media/Background.css": "/Buller-maqueta/static/media/Background-xl.642e47b5.png",
+    "static/media/Background.52ddff6c.png": "/Buller-maqueta/static/media/Background.52ddff6c.png",
+    "static/media/Buller.bceecaca.svg": "/Buller-maqueta/static/media/Buller.bceecaca.svg",
+    "static/media/Facebook.7e08f55b.svg": "/Buller-maqueta/static/media/Facebook.7e08f55b.svg",
+    "static/media/ShoppingCart.0c46c1f8.svg": "/Buller-maqueta/static/media/ShoppingCart.0c46c1f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00259edf.js",
+    "static/js/2.c6308a9e.chunk.js",
+    "static/css/main.8ea08200.chunk.css",
+    "static/js/main.8e1fbbe1.chunk.js"
+  ]
+}
